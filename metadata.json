@@ -1,0 +1,6 @@
+{
+  "name": "Medicare Enrollment & Beneficiary Portal",
+  "description": "Secure Medicare enrollment, authentication, eligibility verification, plan comparison, and encrypted document upload vault.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
